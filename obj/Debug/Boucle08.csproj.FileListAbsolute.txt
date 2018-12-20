@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\LesBoucles\Boucle08\bin\Debug\Boucle08.exe.config
+C:\Users\Dell\source\repos\LesBoucles\Boucle08\bin\Debug\Boucle08.exe
+C:\Users\Dell\source\repos\LesBoucles\Boucle08\bin\Debug\Boucle08.pdb
+C:\Users\Dell\source\repos\LesBoucles\Boucle08\obj\Debug\Boucle08.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LesBoucles\Boucle08\obj\Debug\Boucle08.exe
+C:\Users\Dell\source\repos\LesBoucles\Boucle08\obj\Debug\Boucle08.pdb
